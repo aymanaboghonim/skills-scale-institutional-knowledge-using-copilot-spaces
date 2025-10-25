@@ -30,11 +30,13 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Proposed team / roles:
 
 ## Initiation Checklist
-- [ ] One-pager completed and reviewed by Product Lead
+- [ ] One-pager completed and reviewed by Product Lead ([use template](templates/project-one-pager.md))
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] Create stakeholder communication plan ([use template](templates/stakeholder-communication-plan.md))
+- [ ] Initialize risk register ([use template](templates/risk-register.md))
 
 ## Decision Gate
 Move to planning when:

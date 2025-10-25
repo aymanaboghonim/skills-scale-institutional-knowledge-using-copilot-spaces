@@ -554,4 +554,6 @@ Use PostgreSQL as the primary database.
 - [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
-- [ ] Risk register updated weekly
+- [ ] Risk register updated weekly ([use template](templates/risk-register.md))
+- [ ] Weekly status updates sent to stakeholders ([use template](templates/weekly-status-update.md))
+- [ ] Decision log maintained for important choices ([use template](templates/decision-log-entry.md))
