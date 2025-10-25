@@ -30,6 +30,17 @@ This documentation suite provides detailed guidance on each phase of the OctoAcm
 
 - **[Roles and Personas](octoacme-roles-and-personas.md)** - Detailed definitions of team roles, responsibilities, goals, and communication patterns
 
+### Templates & Checklists
+
+The **[templates directory](templates/)** contains reusable templates for:
+- [Project One-Pager](templates/project-one-pager.md) - Initial project proposal
+- [Stakeholder Communication Plan](templates/stakeholder-communication-plan.md) - Communication strategy
+- [Risk Register](templates/risk-register.md) - Risk tracking and management
+- [Weekly Status Update](templates/weekly-status-update.md) - Consistent status reporting
+- [Pre-Release Checklist](templates/pre-release-checklist.md) - Release readiness validation
+- [Retrospective Output](templates/retrospective-output.md) - Document retro outcomes
+- [Decision Log Entry](templates/decision-log-entry.md) - Record important decisions
+
 ## Getting Started
 
 If you're new to OctoAcme or joining a project team, we recommend:

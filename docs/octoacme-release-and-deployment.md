@@ -14,6 +14,7 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Release notes drafted
 - Rollback / mitigation plan documented
 - Smoke tests prepared
+- Pre-release checklist completed ([use template](../templates/pre-release-checklist.md))
 
 ## Deployment Checklist
 - [ ] Deployment window scheduled (if needed)
@@ -36,3 +37,12 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Notable changes:
 - Migration steps (if any):
 - Known issues:
+
+---
+
+## See Also
+
+- [Execution & Tracking](octoacme-execution-and-tracking.md) - For quality standards and testing practices
+- [Risk Management](octoacme-risks-and-communication.md) - For incident communication procedures
+- [Project Planning](octoacme-project-planning.md) - For release planning and milestones
+- [Templates](templates/pre-release-checklist.md) - Pre-release checklist template
